@@ -48,6 +48,7 @@ items:
 
 - Hopper
 - Shulkerbox
+- Beacons
 
 STILL BEING WORKED ON / ADDED: 
 
