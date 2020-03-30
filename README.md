@@ -56,7 +56,6 @@ STILL BEING WORKED ON / ADDED:
 
 features: 
 - More commands
-- Functional Hoppers
 - Vanilla Enchanting
 - AuctionHouse
 - StaffChat
