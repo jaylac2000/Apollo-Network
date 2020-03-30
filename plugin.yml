@@ -11,3 +11,10 @@ serverport: 19132
 website: http://apollomcpe.buycraft.net/
 vote: https://minecraftpocket-servers.com/server/87426/
 discord: https://discord.gg/4MBsfTA
+gamemodes: 
+- Creative
+- Skyblock
+comingsoon:
+- Survival
+- Prisons
+- UHC
