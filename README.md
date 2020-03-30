@@ -9,15 +9,38 @@ My Server Info: Check plugin.yml
 CURRENT FEATURES: 
 
 commands: 
+/spawn 
+/pvp
+/tell
+/withdraw (money notes)
+/clearlagg
+/clear
+/kickall
+/freemoney (troll)
+/day
+/night
+/xuid
+/rename
+/nametag (turn on or off your name tag)
+/nightvision (on/off)
 
 features:
 
-- SellSystem (sell hand, all, inv, ores)
-- HomeSystem (limit homes by rank)
+- Sell-System (sell hand, all, inv, ores -- autosell)
+- Home-System (limit homes by rank)
 - TPA-System
-- MuteSystem
-- BanSystem
-- StaffStatus
+- Warp-System
+- Mute-System
+- Ban-System
+- StaffStatus (/staff)
+- CommandBlocker
+- SellWands
+- BuyItem (/buyitem)
+- VoteParty
+- VoteRewards
+- Combiner(to fix tools -- /combiner)
+- VanillaCoordinates
+- PlayerHeads
 
 items: 
 
@@ -25,3 +48,17 @@ items:
 - Shulkerbox
 
 STILL BEING WORKED ON / ADDED: 
+
+features: 
+- Functional Hoppers
+- Vanilla Enchanting
+- AuctionHouse
+- StaffChat
+- AutoClearLagg
+- MoneyPouch
+- Server PlayerCount Linker
+- Tags
+- VanishSystem
+- InvisableSystem (same as vanish but broadcasts join / leave messages)
+
+commads: 
