@@ -1,1 +1,13 @@
-
+name: ApolloMCPE
+author: 
+- KielKing 
+- jaylac2000
+- DaRealPandaz
+- Shelly7w7
+description: "ApolloMCPE"
+softdepend: ["PurePerms", "EconomyAPI"]
+serverip: play.apollomcpe.xyz
+serverport: 19132
+website: http://apollomcpe.buycraft.net/
+vote: https://minecraftpocket-servers.com/server/87426/
+discord: https://discord.gg/4MBsfTA
