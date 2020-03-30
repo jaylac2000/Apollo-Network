@@ -9,20 +9,20 @@ My Server Info: Check plugin.yml
 CURRENT FEATURES: 
 
 commands: 
-/spawn 
-/pvp
-/tell
-/withdraw (money notes)
-/clearlagg
-/clear
-/kickall
-/freemoney (troll)
-/day
-/night
-/xuid
-/rename
-/nametag (turn on or off your name tag)
-/nightvision (on/off)
+- /spawn 
+- /pvp
+- /tell
+- /withdraw (money notes)
+- /clearlagg
+- /clear
+- /kickall
+- /freemoney (troll)
+- /day
+- /night
+- /xuid
+- /rename
+- /nametag (turn on or off your name tag)
+- /nightvision (on/off)
 
 features:
 
