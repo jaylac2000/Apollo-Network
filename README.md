@@ -42,6 +42,7 @@ features:
 - VanillaCoordinates
 - PlayerHeads
 - Functional Nether/ End Portals & worlds
+- Invsee-System
 
 items: 
 
