@@ -65,5 +65,9 @@ features:
 - Tags
 - VanishSystem
 - InvisableSystem (same as vanish but broadcasts join / leave messages)
+- BroadcastSystem
+- DropParty
+- KDR
+- CombatLogger
 
 commads: 
