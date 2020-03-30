@@ -1,6 +1,8 @@
 # ApolloMCPE
 
-My Servers Core is worth about $300 if you wish to buy it you must pay full price. 
+My Servers Core (ApolloMCPE)
+
+For sale: Not currently, probably won't be, if it comes for sale it'll probably be expensive)
 
 There are features being added constantly 
 
