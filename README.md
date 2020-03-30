@@ -4,7 +4,7 @@ My Servers Core is worth about $300 if you wish to buy it you must pay full pric
 
 There are features being added constantly 
 
-My Server Info: Check plugin.yml
+My Server Info: Check plugin.yml 
 
 CURRENT FEATURES: 
 
@@ -41,6 +41,7 @@ features:
 - Combiner(to fix tools -- /combiner)
 - VanillaCoordinates
 - PlayerHeads
+- Functional Nether/ End Portals & worlds
 
 items: 
 
