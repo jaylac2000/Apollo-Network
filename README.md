@@ -10,4 +10,13 @@ commands:
 
 features:
 
-STILL BEING WORKED ON: 
+- SellSystem (sell hand, all, inv, ores)
+- HomeSystem (limit homes by rank)
+- TPA-System
+
+items: 
+
+- Hopper
+- Shulkerbox
+
+STILL BEING WORKED ON / ADDED: 
