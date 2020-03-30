@@ -69,3 +69,4 @@ features:
 - DropParty
 - KDR
 - CombatLogger
+- DisguiseSystem (as any mob or player)
