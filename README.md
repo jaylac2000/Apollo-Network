@@ -55,6 +55,7 @@ items:
 STILL BEING WORKED ON / ADDED: 
 
 features: 
+- More commands
 - Functional Hoppers
 - Vanilla Enchanting
 - AuctionHouse
@@ -69,5 +70,3 @@ features:
 - DropParty
 - KDR
 - CombatLogger
-
-commads: 
