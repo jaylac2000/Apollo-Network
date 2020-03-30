@@ -15,6 +15,8 @@ features:
 - SellSystem (sell hand, all, inv, ores)
 - HomeSystem (limit homes by rank)
 - TPA-System
+- MuteSystem
+- BanSystem
 - StaffStatus
 
 items: 
