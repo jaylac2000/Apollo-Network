@@ -4,6 +4,8 @@ My Servers Core is worth about $300 if you wish to buy it you must pay full pric
 
 There are features being added constantly 
 
+My Server Info: Check plugin.yml
+
 CURRENT FEATURES: 
 
 commands: 
