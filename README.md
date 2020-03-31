@@ -12,7 +12,9 @@ CURRENT FEATURES:
 
 commands: 
 - /spawn 
+- /setserverspawn
 - /pvp
+- /setpvp
 - /tell
 - /withdraw (money notes)
 - /clearlagg
