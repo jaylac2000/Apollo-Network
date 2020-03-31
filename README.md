@@ -72,3 +72,4 @@ features:
 - KDR
 - CombatLogger
 - DisguiseSystem (as any mob or player)
+- Crates
