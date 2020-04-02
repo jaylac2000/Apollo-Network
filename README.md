@@ -78,6 +78,8 @@ features:
 - Messages (join/ leave, MOTD)
 - HealthTag
 - AutoINV
+- Minions
+- Custom Terrains 
 
 items: 
 
