@@ -4,6 +4,7 @@ author:
 - jaylac2000
 - DaRealPandaz
 - Shelly7w7
+- diamondkorben
 description: "ApolloMCPE"
 softdepend: ["PurePerms", "EconomyAPI"]
 serverip: play.apollomcpe.xyz
