@@ -74,3 +74,11 @@ features:
 - DisguiseSystem (as any mob or player)
 - Custom Enchants
 - Weather 
+- Functional Villagers
+- Messages (join/ leave, MOTD)
+- HealthTag
+- AutoINV
+
+items: 
+
+- Anvil
