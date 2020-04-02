@@ -73,3 +73,4 @@ features:
 - CombatLogger
 - DisguiseSystem (as any mob or player)
 - Custom Enchants
+- Weather 
