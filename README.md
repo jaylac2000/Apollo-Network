@@ -80,6 +80,7 @@ features:
 - AutoINV
 - Minions
 - Custom Terrains 
+- MySQL Support (VoteParty, Tags, AuctionHouse, KDR)
 
 items: 
 
