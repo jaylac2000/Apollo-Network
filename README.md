@@ -84,3 +84,7 @@ features:
 items: 
 
 - Anvil
+- NameTag
+- Lever
+- Buttons
+- Pressure Plates
