@@ -2,7 +2,7 @@
 
 My Servers Core (ApolloMCPE)
 
-For sale: Not currently, probably won't be, if it comes for sale it'll probably be expensive)
+For sale: HELL NO
 
 There are features being added constantly 
 
