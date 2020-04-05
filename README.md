@@ -63,11 +63,11 @@ features:
 -- StaffChat
 -- AutoClearLagg
 -- MoneyPouch
-- Server PlayerCount Linker
-- Tags
-- VanishSystem
+-- Server PlayerCount Linker
+-- Tags
+-- VanishSystem
 - InvisableSystem (same as vanish but broadcasts join / leave messages)
-- BroadcastSystem
+-- BroadcastSystem
 -- DropParty
 -- KDR
 -- CombatLogger
