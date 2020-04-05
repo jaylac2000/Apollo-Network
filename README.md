@@ -59,10 +59,10 @@ STILL BEING WORKED ON / ADDED:
 features: 
 - More commands
 - Vanilla Enchanting
-- AuctionHouse
-- StaffChat
-- AutoClearLagg
-- MoneyPouch
+-- AuctionHouse
+-- StaffChat
+-- AutoClearLagg
+-- MoneyPouch
 - Server PlayerCount Linker
 - Tags
 - VanishSystem
