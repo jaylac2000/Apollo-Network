@@ -68,13 +68,13 @@ features:
 - VanishSystem
 - InvisableSystem (same as vanish but broadcasts join / leave messages)
 - BroadcastSystem
-- DropParty
-- KDR
-- CombatLogger
+-- DropParty
+-- KDR
+-- CombatLogger
 - DisguiseSystem (as any mob or player)
-- Custom Enchants
-- Weather 
-- Functional Villagers
+-- Custom Enchants
+-- Weather 
+-- Functional Villagers
 - Messages (join/ leave, MOTD)
 -- HealthTag
 -- AutoINV
