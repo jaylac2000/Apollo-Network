@@ -64,7 +64,7 @@ features:
 -- AutoClearLagg
 -- MoneyPouch
 -- Server PlayerCount Linker
--- Tags
+- Tags
 -- VanishSystem
 - InvisableSystem (same as vanish but broadcasts join / leave messages)
 - BroadcastSystem
