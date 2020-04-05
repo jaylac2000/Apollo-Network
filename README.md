@@ -79,8 +79,9 @@ features:
 - HealthTag
 - AutoINV
 - Minions
+- WarnSystem
 - Custom Terrains 
-- MySQL Support (VoteParty, Tags, AuctionHouse, KDR)
+- MySQL Support (VoteParty, Tags, AuctionHouse, KDR, MuteSystem, BanSystem, WarnSystem)
 
 items: 
 
