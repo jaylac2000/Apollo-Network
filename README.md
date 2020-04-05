@@ -2,7 +2,7 @@
 
 My Servers Core (ApolloMCPE)
 
-For sale: HELL NO
+For sale or release?: HELL NO
 
 There are features being added constantly 
 
