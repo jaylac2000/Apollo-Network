@@ -76,11 +76,11 @@ features:
 - Weather 
 - Functional Villagers
 - Messages (join/ leave, MOTD)
-- HealthTag
-- AutoINV
-- Minions
-- WarnSystem
-- Custom Terrains 
+-- HealthTag
+-- AutoINV
+-- Minions
+-- WarnSystem
+-- Custom Terrains 
 - MySQL Support (VoteParty, Tags, AuctionHouse, KDR, MuteSystem, BanSystem, WarnSystem)
 
 items: 
