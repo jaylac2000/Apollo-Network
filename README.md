@@ -73,6 +73,7 @@ commands:
 - /tutorial
 - /settutorial
 - /god
+- /lobby
 - More Commands
 
 features: 
