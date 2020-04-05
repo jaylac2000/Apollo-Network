@@ -7,6 +7,7 @@ author:
 SomeCodeCredits:
 - Shelly7w7
 - TwistedAsylumMC (Twisted)
+- CortexPE
 description: "ApolloMCPE"
 softdepend: ["PurePerms", "EconomyAPI"]
 serverip: play.apollomcpe.xyz
