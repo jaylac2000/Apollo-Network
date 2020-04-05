@@ -72,6 +72,7 @@ commands:
 - /repair
 - /tutorial
 - /settutorial
+- /god
 - More Commands
 
 features: 
