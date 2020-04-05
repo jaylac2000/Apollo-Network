@@ -27,6 +27,10 @@ commands:
 - /rename
 - /nametag (turn on or off your name tag)
 - /nightvision (on/off)
+- /reply
+- /commandspy (on/off) 
+- /as
+- /reg (currently doesnt work)
 
 features:
 
@@ -53,6 +57,8 @@ items:
 - Hopper
 - Shulkerbox
 - Beacons
+- EyeOfEnder
+- Elytra
 
 STILL BEING WORKED ON / ADDED: 
 
@@ -110,3 +116,4 @@ items:
 - Lever
 - Buttons
 - Pressure Plates
+- Fireworks
