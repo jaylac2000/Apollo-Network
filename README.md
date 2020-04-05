@@ -56,8 +56,25 @@ items:
 
 STILL BEING WORKED ON / ADDED: 
 
+commands: 
+- /workbench 
+- /back
+- /enderchest
+- /fly
+- /ip
+- /ips
+- /wild
+- /worldtp
+- /world
+- /milk 
+- /feed
+- /heal
+- /repair
+- /tutorial
+- /settutorial
+- More Commands
+
 features: 
-- More commands
 - Vanilla Enchanting
 -- AuctionHouse
 -- StaffChat
@@ -81,6 +98,7 @@ features:
 -- Minions
 -- WarnSystem
 -- Custom Terrains 
+-- Nick-System
 - MySQL Support (VoteParty, Tags, AuctionHouse, KDR, MuteSystem, BanSystem, WarnSystem)
 
 items: 
