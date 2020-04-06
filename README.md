@@ -117,3 +117,5 @@ items:
 - Buttons
 - Pressure Plates
 - Fireworks
+- Shield
+- Totem Of Undying
