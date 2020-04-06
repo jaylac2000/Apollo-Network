@@ -107,6 +107,7 @@ features:
 -- WarnSystem
 -- Custom Terrains 
 -- Nick-System
+- Warn System
 - MySQL Support (VoteParty, Tags, AuctionHouse, KDR, MuteSystem, BanSystem, WarnSystem)
 
 items: 
