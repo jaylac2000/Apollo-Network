@@ -64,6 +64,7 @@ STILL BEING WORKED ON / ADDED:
 
 commands: 
 - /workbench 
+- /timefly
 - /back
 - /enderchest
 - /fly
