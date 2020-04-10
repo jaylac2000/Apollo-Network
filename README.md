@@ -121,3 +121,4 @@ items:
 - Fireworks
 - Shield
 - Totem Of Undying
+- Brewing Stand
