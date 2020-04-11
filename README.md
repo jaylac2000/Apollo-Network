@@ -51,6 +51,7 @@ features:
 - PlayerHeads
 - Functional Nether/ End Portals & worlds
 - Invsee-System
+- Vanilla Enchanting 
 
 items: 
 
@@ -59,6 +60,9 @@ items:
 - Beacons
 - EyeOfEnder
 - Elytra
+- Anvil 
+- Brewing Stand
+- Enchant Table
 
 STILL BEING WORKED ON / ADDED: 
 
@@ -84,7 +88,6 @@ commands:
 - More Commands
 
 features: 
-- Vanilla Enchanting
 -- AuctionHouse
 -- StaffChat
 -- AutoClearLagg
@@ -113,7 +116,6 @@ features:
 
 items: 
 
-- Anvil
 - NameTag
 - Lever
 - Buttons
@@ -121,4 +123,3 @@ items:
 - Fireworks
 - Shield
 - Totem Of Undying
-- Brewing Stand
