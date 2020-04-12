@@ -14,4 +14,5 @@ commands:
 
 features:
 
-- 
+- Adds spawners
+- Adds spawner
