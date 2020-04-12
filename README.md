@@ -122,3 +122,4 @@ items:
 - Fireworks
 - Shield
 - Totem Of Undying
+- Slime Block
