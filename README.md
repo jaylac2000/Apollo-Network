@@ -88,7 +88,7 @@ commands:
 - More Commands
 
 features: 
--- AuctionHouse
+- AuctionHouse
 -- StaffChat
 -- AutoClearLagg
 -- MoneyPouch
