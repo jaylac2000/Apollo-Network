@@ -14,4 +14,6 @@ commands:
 
 features:
 
-- 
+- Auto Restars the server after a certain interval 
+- Adds /restart command to restart the server from in game or console
+- Adds /timer command to see how long there is left until restart
