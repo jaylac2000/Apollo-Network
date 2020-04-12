@@ -88,8 +88,7 @@ commands:
 - More Commands
 
 features: 
-- AuctionHouse
--- StaffChat
+- StaffChat
 -- AutoClearLagg
 -- MoneyPouch
 -- Server PlayerCount Linker
@@ -112,7 +111,7 @@ features:
 -- Custom Terrains 
 -- Nick-System
 - Warn System
-- MySQL Support (VoteParty, Tags, AuctionHouse, KDR, MuteSystem, BanSystem, WarnSystem)
+- MySQL Support (VoteParty, Tags, KDR, MuteSystem, BanSystem, WarnSystem)
 
 items: 
 
