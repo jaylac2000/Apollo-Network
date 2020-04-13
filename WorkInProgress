@@ -1,1 +1,65 @@
+STILL BEING WORKED ON / ADDED: 
 
+commands: 
+- /workbench 
+- /timefly
+- /back
+- /enderchest
+- /fly
+- /ip
+- /ips
+- /wild
+- /worldtp
+- /world
+- /milk 
+- /feed
+- /heal
+- /repair
+- /tutorial
+- /settutorial
+- /god
+- /lobby
+- More Commands
+
+features: 
+- StaffChat
+- AutoClearLagg
+- MoneyPouch
+- Server PlayerCount Linker
+- Tags
+- VanishSystem
+- InvisableSystem (same as vanish but broadcasts join / leave messages)
+- BroadcastSystem
+- DropParty
+- KDR
+- CombatLogger
+- DisguiseSystem (as any mob or player)
+- Custom Enchants
+- Weather 
+- Functional Villagers
+- Messages (join/ leave, MOTD)
+- HealthTag
+- AutoINV
+- Minions
+- Nick-System
+- Warn System
+- Custom Terrains 
+
+MySQL Support:
+- VoteParty
+- Tags
+- KDR
+- MuteSystem
+- BanSystem
+- WarnSystem
+
+items: 
+
+- NameTag
+- Lever
+- Buttons
+- Pressure Plates
+- Fireworks
+- Shield
+- Totem Of Undying
+- Slime Block
