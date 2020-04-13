@@ -4,7 +4,7 @@ My Servers Core (ApolloMCPE)
 
 For sale or release?: NO
 
-There are features being added constantly 
+There are features being added constantly (Check WorkInProgress)
 
 My Server Info: Check plugin.yml 
 
