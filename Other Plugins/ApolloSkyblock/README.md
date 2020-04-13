@@ -58,6 +58,7 @@ island commands:
 - withdraw
 - members
 - randomtp (rtp)
+- pvp
 
 features: 
 - Hopper Limit (Per Island) (and upgrade)
