@@ -19,6 +19,10 @@ commands:
 - /settutorial
 - /god
 - /lobby
+- /gma
+- /gms
+- /gmc
+- /gmsp 
 - More Commands
 
 features: 
@@ -27,10 +31,11 @@ features:
 - MoneyPouch
 - Server PlayerCount Linker
 - Tags
-- VanishSystem
-- InvisableSystem (same as vanish but broadcasts join / leave messages)
-- BroadcastSystem
+- Vanish System
+- Invisable System (same as vanish but broadcasts join / leave messages)
+- Broadcast System
 - DropParty
+- Bosses
 - KDR
 - CombatLogger
 - DisguiseSystem (as any mob or player)
@@ -41,7 +46,7 @@ features:
 - HealthTag
 - AutoINV
 - Minions
-- Nick-System
+- Nick System
 - Warn System
 - Custom Terrains 
 
