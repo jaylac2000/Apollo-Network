@@ -22,6 +22,8 @@ commands:
 - /gms
 - /gmc
 - /gmsp 
+- /extinguish
+- /compass
 - More Commands
 
 features: 
