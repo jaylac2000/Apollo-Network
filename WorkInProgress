@@ -1,7 +1,6 @@
 STILL BEING WORKED ON / ADDED: 
 
 commands: 
-- /workbench 
 - /timefly
 - /back
 - /enderchest
@@ -49,6 +48,7 @@ features:
 - Nick System
 - Warn System
 - Custom Terrains 
+- Condense Wands
 
 MySQL Support:
 - VoteParty
