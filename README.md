@@ -20,7 +20,7 @@ commands:
 - /clearlagg
 - /clear
 - /kickall
-- /freemoney (troll)
+- /freemoney 
 - /day
 - /night
 - /xuid
