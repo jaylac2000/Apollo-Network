@@ -24,6 +24,7 @@ commands:
 - /gmsp 
 - /extinguish
 - /compass
+- /hunger <on/off>
 - More Commands
 
 features: 
