@@ -32,10 +32,10 @@ features:
 - Bosses
 - KDR
 - CombatLogger
-- DisguiseSystem (as any mob or player)
+- DisguiseSystem (as any mob or player) 
 - Custom Enchants
 - Weather 
-- Functional Villagers
+- Functional Villagers (possibly)
 - Messages (join/ leave, MOTD)
 - HealthTag
 - AutoINV
