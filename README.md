@@ -31,6 +31,15 @@ commands:
 - /commandspy (on/off) 
 - /as
 - /reg (currently doesnt work)
+- /back
+- /enderchest
+- /fly
+- /milk 
+- /feed
+- /heal
+- /godmode
+- /worldtp
+- /lobby
 
 features:
 
