@@ -10,8 +10,6 @@ commands:
 - /repair
 - /tutorial
 - /settutorial
-- /god
-- /lobby
 - /gma
 - /gms
 - /gmc
