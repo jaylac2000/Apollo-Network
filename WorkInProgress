@@ -21,6 +21,7 @@ commands:
 
 features: 
 - AntiVoid
+- Name Space Remover
 - StaffChat
 - AutoClearLagg
 - MoneyPouch
@@ -34,7 +35,6 @@ features:
 - KDR
 - CombatLogger
 - DisguiseSystem (as any mob or player) 
-- Custom Enchants
 - Weather 
 - Functional Villagers (possibly)
 - Messages (join/ leave, MOTD)
@@ -64,3 +64,4 @@ items:
 - Shield
 - Totem Of Undying
 - Slime Block
+- Armour Stand
