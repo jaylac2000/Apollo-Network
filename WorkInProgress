@@ -27,7 +27,6 @@ features:
 - AutoClearLagg
 - MoneyPouch
 - Server PlayerCount Linker
-- Tags
 - Vanish System
 - Invisable System (same as vanish but broadcasts join / leave messages)
 - Broadcast System
@@ -49,7 +48,6 @@ features:
 
 MySQL Support:
 - VoteParty
-- Tags
 - KDR
 - MuteSystem
 - BanSystem
