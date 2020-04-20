@@ -20,6 +20,7 @@ commands:
 - More Commands
 
 features: 
+- AntiVoid
 - StaffChat
 - AutoClearLagg
 - MoneyPouch
