@@ -16,7 +16,7 @@ commands:
 - /pvp
 - /setpvp
 - /tell
-- /withdraw (money notes)
+- /withdraw
 - /clearlagg
 - /clear
 - /kickall
@@ -25,12 +25,12 @@ commands:
 - /night
 - /xuid
 - /rename
-- /nametag (turn on or off your name tag)
-- /nightvision (on/off)
+- /nametag <on/off>
+- /nightvision <on/off>
 - /reply
-- /commandspy (on/off) 
+- /commandspy <on/off> 
 - /as
-- /reg (currently doesnt work)
+- /reg 
 - /back
 - /enderchest
 - /fly
