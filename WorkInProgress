@@ -17,6 +17,7 @@ commands:
 - /gmsp 
 - /extinguish
 - /compass
+- /near
 - /hunger <on/off>
 - More Commands
 
