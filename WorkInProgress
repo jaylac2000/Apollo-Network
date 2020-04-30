@@ -23,6 +23,7 @@ commands:
 
 features: 
 - AntiVoid
+- Consense Wands
 - ChunkHoppers
 - Name Space Remover
 - StaffChat
