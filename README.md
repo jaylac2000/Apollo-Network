@@ -35,8 +35,8 @@ commands:
 - /enderchest
 - /fly
 - /milk 
-- /feed
-- /heal
+- /feed (has cooldown)
+- /heal (has cooldown)
 - /godmode
 - /worldtp
 - /lobby
