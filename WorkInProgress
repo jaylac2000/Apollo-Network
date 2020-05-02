@@ -1,24 +1,25 @@
 STILL BEING WORKED ON / ADDED: 
 
 commands: 
-- /timefly
+- /timefly (/tf)
 - /killall
 - /hat
 - /ip
-- /ips
-- /wild
+- /ips (/alt)
+- /wilderness (/wild)
 - /world
-- /repair
-- /tutorial
-- /settutorial
+- /repair (/fix)
+- /tutorial (/tut)
+- /settutorial (/settut)
 - /gma
 - /gms
 - /gmc
 - /gmsp 
-- /extinguish
+- /extinguish (/ext)
 - /compass
 - /near
 - /hunger <on/off>
+- /nuke
 - More Commands
 
 features: 
