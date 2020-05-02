@@ -61,6 +61,7 @@ features:
 - Functional Nether/ End Portals & worlds
 - Invsee-System
 - Vanilla Enchanting 
+- Chunk Hoppers
 
 items: 
 
