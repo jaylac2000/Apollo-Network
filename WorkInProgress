@@ -23,7 +23,7 @@ commands:
 
 features: 
 - AntiVoid
-- ChunkHoppers
+- JailSystem
 - Name Space Remover
 - StaffChat
 - AutoClearLagg
