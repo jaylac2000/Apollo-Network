@@ -8,6 +8,8 @@ There are features being added constantly (Check WorkInProgress)
 
 My Server Info: Check plugin.yml 
 
+** This is only posted here so people / my server members can see what the server has and what is upcoming, even if not added to my main core itll be in "Other Plugins"
+
 CURRENT FEATURES: 
 
 commands: 
