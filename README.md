@@ -39,9 +39,9 @@ commands:
 - /milk 
 - /feed (has cooldown)
 - /heal (has cooldown)
-- /godmode
+- /godmode (/god)
 - /worldtp
-- /lobby
+- /lobby (/hub)
 
 features:
 
