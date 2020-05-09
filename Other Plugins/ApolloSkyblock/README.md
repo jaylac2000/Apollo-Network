@@ -63,3 +63,5 @@ features:
 - Gangs or clans
 - Floating Text
 - Chest Shops
+- AutoINV
+- AntiVoid
