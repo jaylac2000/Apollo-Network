@@ -23,7 +23,6 @@ commands:
 - More Commands
 
 features: 
-- AntiVoid
 - JailSystem
 - Name Space Remover
 - StaffChat
@@ -42,8 +41,6 @@ features:
 - Functional Villagers (possibly)
 - Messages (join/ leave, MOTD)
 - HealthTag
-- AutoINV
-- Minions
 - Nick System
 - Warn System
 - Custom Terrains 
