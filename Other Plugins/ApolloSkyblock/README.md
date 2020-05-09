@@ -48,19 +48,16 @@ island commands:
 - visit : Teleports you to a Players Island
 
 features:
-- Island Levels 
-- Island Upgrades (ore gens, member limit)
+- Island Levels (ore gens , leaderboards)
+- Island Upgrades (size limit, member limit, hopper limit)
 
 STILL BEING WORKED ON / ADDED: 
 
 island commands: 
-- teleport (tp) UI
-- withdraw
 - members
-- randomtp (rtp)
-- pvp
 
 features: 
-- Hopper Limit (Per Island) (and upgrade)
 - Custom Islands
-- UI support
+- Minions
+- Gangs or clans
+- Floating Text
