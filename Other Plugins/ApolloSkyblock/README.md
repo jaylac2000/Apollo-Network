@@ -55,6 +55,7 @@ STILL BEING WORKED ON / ADDED:
 
 island commands: 
 - members
+- fly
 
 features: 
 - Custom Islands
