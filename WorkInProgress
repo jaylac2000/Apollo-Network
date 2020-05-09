@@ -28,7 +28,6 @@ features:
 - StaffChat
 - AutoClearLagg
 - MoneyPouch
-- Server PlayerCount Linker
 - Vanish System
 - Invisable System (same as vanish but broadcasts join / leave messages)
 - Broadcast System
@@ -54,7 +53,6 @@ MySQL Support:
 
 items: 
 
-- NameTag
 - Lever
 - Buttons
 - Pressure Plates
