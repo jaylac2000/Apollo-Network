@@ -62,3 +62,4 @@ features:
 - Minions
 - Gangs or clans
 - Floating Text
+- Chest Shops
