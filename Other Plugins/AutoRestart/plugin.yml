@@ -1,7 +1,4 @@
 name: AutoRestart
-version: 1.0
-api: 3.0.0
-load: POSTWORLD
 author: KielKing - jaylac2000
 description: "ASC"
 
