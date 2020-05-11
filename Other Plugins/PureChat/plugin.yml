@@ -1,0 +1,10 @@
+name: PureChat
+api: [3.0.0]
+load: POSTWORLD
+author: 64FF00 - jaylac2000 - AdminConfirmed
+# privately forked for ApolloMCPE
+depend: [PurePerms]
+softdepend: [FactionsPro, XeviousPE-Factions, ApolloSkyblock]
+
+^^ Some of this info is added just for the purpose of this github upload ^^
+# Some info has also been removed 
