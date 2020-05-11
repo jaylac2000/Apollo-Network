@@ -1,0 +1,63 @@
+STILL BEING WORKED ON / ADDED: 
+
+commands: 
+- /timefly (/tf)
+- /killall
+- /hat
+- /ip
+- /ips (/alt)
+- /wilderness (/wild)
+- /world
+- /repair (/fix)
+- /tutorial (/tut)
+- /settutorial (/settut)
+- /gma
+- /gms
+- /gmc
+- /gmsp 
+- /extinguish (/ext)
+- /compass
+- /near
+- /hunger <on/off>
+- /nuke
+- More Commands
+
+features: 
+- JailSystem
+- Name Space Remover
+- StaffChat
+- AutoClearLagg
+- MoneyPouch
+- Vanish System
+- Invisable System (same as vanish but broadcasts join / leave messages)
+- Broadcast System
+- DropParty
+- Bosses
+- KDR
+- CombatLogger
+- DisguiseSystem (as any mob or player) 
+- Weather 
+- Functional Villagers (possibly)
+- Messages (join/ leave, MOTD)
+- HealthTag
+- Nick System
+- Warn System
+- Custom Terrains 
+
+MySQL Support:
+- VoteParty
+- KDR
+- MuteSystem
+- BanSystem
+- WarnSystem
+
+items: 
+
+- Lever
+- Buttons
+- Pressure Plates
+- Fireworks
+- Shield
+- Totem Of Undying
+- Slime Block
+- Armour Stand
