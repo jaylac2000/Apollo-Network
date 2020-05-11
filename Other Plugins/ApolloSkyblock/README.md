@@ -26,21 +26,25 @@ island commands:
 
 ***Island Moderator Commands:***
 
+- pvp : Enables pvp in your Island
+- withdraw : Withdraw money from your Island balance
 - upgrade : Upgrades your Island
 - lock : Block people from visiting your Island
 - setname : Changes your Island name
 - invite : Invites specified Player to your Island
 - fire : Fires specified Player from your Island
 - kick : Kicks unwanted Guests from your Island
-- sethome (setspawn) : Moves the Island home to your current Location
+- sethome : Moves the Island home to your current Location
 - cooperate : Allows/Denys specified Player from editing your Island
-
+ 
 ***Island Member Commands:***
 
+/island teleport : Teleports you to a online players island
+- rtp : Teleports you to a random online players island
 - join : Joins the specified Island
 - leave : Leaves your Island
 - chat : Changes your Chat Type
-- home (go, spawn) : Teleports you to your Island
+- home : Teleports you to your Island
 - info : Gets information from an Island
 - donate : Donates money to your Island Value
 - value : Gets Value from your Island
