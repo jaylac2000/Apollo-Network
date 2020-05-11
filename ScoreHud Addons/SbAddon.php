@@ -1,1 +1,0 @@
-ADDON FOR Apollo-Skyblock
