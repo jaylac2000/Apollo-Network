@@ -63,9 +63,9 @@ island commands:
 
 features: 
 - Custom Islands
-- Minions
+- Minions (miner, grinder, tree cutter, farmer)
 - clans
-- Floating Text
+- Floating Text (for top islands)
 - Chest Shops
 - AutoINV
 - AntiVoid
