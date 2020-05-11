@@ -3,7 +3,6 @@ name: ApolloNetwork
 Developers: 
 - KielKing 
 - jaylac2000
-- DaRealPandaz
 - diamondkorben
 - AdminConfirmed
 
@@ -11,6 +10,7 @@ CodeCredits:
 - Shelly7w7
 - TwistedAsylumMC (Twisted)
 - CortexPE
+- DaRealPandaz
 
 serverip: play.apollomcpe.xyz
 serverport: 19132
