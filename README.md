@@ -3,6 +3,7 @@
 Q & A
 
 Q: Are any of my plugins for sale or release
+
 A: NOPE
 
 There are features being added constantly (Check WorkInProgress)
