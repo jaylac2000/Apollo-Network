@@ -64,7 +64,7 @@ island commands:
 features: 
 - Custom Islands
 - Minions
-- Gangs or clans
+- clans
 - Floating Text
 - Chest Shops
 - AutoINV
