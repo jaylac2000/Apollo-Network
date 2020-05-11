@@ -15,4 +15,4 @@ commands:
 features:
 
 - Adds spawners
-- Adds spawner
+- Adds spawner shop
