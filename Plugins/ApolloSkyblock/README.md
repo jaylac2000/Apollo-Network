@@ -71,3 +71,4 @@ features:
 - Chest Shops
 - AutoINV
 - AntiVoid
+- Island Quests / Challenges
