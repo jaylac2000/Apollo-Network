@@ -61,6 +61,7 @@ island commands:
 - members
 - fly
 - autotp
+- bank
 
 features: 
 - Custom Islands
