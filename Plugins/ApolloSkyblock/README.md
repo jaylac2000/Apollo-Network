@@ -27,7 +27,7 @@ island commands:
 ***Island Moderator Commands:***
 
 - pvp : Enables pvp in your Island
-- withdraw : Withdraw money from your Island balance
+- withdraw : Withdraw money from your Island 
 - upgrade : Upgrades your Island
 - lock : Block people from visiting your Island
 - setname : Changes your Island name
@@ -60,6 +60,7 @@ STILL BEING WORKED ON / ADDED:
 island commands: 
 - members
 - fly
+- autotp
 
 features: 
 - Custom Islands
