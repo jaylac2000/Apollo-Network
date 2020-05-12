@@ -62,6 +62,7 @@ island commands:
 - fly
 - autotp
 - bank
+- wealth
 
 features: 
 - Custom Islands
