@@ -54,6 +54,7 @@ island commands:
 features:
 - Island Levels (ore gens , leaderboards)
 - Island Upgrades (size limit, member limit, hopper limit)
+- AntiVoid
 
 STILL BEING WORKED ON / ADDED: 
 
@@ -71,5 +72,4 @@ features:
 - Floating Text (for top islands)
 - Chest Shops
 - AutoINV
-- AntiVoid
 - Island Quests / Challenges
