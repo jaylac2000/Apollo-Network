@@ -73,3 +73,15 @@ features:
 - Chest Shops
 - AutoINV
 - Island Quests / Challenges
+
+Quest Ideas:
+- placed blocks
+- get to certain level
+
+Rewards: 
+- sell wands
+- condense wands
+- crate keys
+- relics
+- money
+- spawners
