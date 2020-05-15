@@ -76,7 +76,7 @@ features:
 
 Quest Ideas:
 - placed blocks
-- get to certain level
+- get to certain level to unlock certain commands
 
 Rewards: 
 - sell wands
