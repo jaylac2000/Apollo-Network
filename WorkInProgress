@@ -21,6 +21,7 @@ commands:
 - /hunger <on/off>
 - /nuke
 - /alert
+- /chunk
 - More Commands
 
 features: 
