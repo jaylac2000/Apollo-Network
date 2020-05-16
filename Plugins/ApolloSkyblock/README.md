@@ -86,3 +86,27 @@ Rewards:
 - relics
 - money
 - spawners
+
+Clan ideas / commands
+- Clans cant pvp each others
+- clans can make allys
+- bannable clan names
+- create cost from is bal
+
+/clan CMDS
+ - help
+ - create
+ - delete
+ - ally
+ - members
+ - invite
+ - accept 
+ - leave
+ - kick
+ - chat
+ - info
+ 
+ Clan ranks
+ - Leader
+ - Officer
+ - Member
