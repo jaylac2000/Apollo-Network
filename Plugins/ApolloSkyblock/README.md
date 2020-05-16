@@ -74,6 +74,7 @@ features:
 - AutoINV
 - Island Quests / Challenges
 - Points System / Shop
+- KDR
 
 Quest Ideas:
 - placed blocks
@@ -107,6 +108,10 @@ Clan ideas / commands
  - kick
  - chat
  - info
+ - transfer
+ - demote
+ - changename
+ - top
  
  Clan ranks
  - Leader
