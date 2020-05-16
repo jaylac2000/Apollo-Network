@@ -92,6 +92,8 @@ Clan ideas / commands
 - clans can make allys
 - bannable clan names
 - create cost from is bal
+- max players
+- clan power
 
 /clan CMDS
  - help
