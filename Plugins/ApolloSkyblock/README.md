@@ -73,6 +73,7 @@ features:
 - Chest Shops
 - AutoINV
 - Island Quests / Challenges
+- Points System / Shop
 
 Quest Ideas:
 - placed blocks
