@@ -61,7 +61,7 @@ STILL BEING WORKED ON / ADDED:
 island commands: 
 - bank
 - wealth
-- settings (fire spread, pvp)
+- settings [UI] (fire spread, pvp)
 
 features: 
 - Custom Islands
