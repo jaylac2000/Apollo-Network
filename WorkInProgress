@@ -45,6 +45,8 @@ features:
 - Nick System
 - Warn System
 - Custom Terrains 
+- Pets
+- Ore Gens
 
 MySQL Support:
 - VoteParty
