@@ -59,11 +59,9 @@ features:
 STILL BEING WORKED ON / ADDED: 
 
 island commands: 
-- members
-- fly
-- autotp
 - bank
 - wealth
+- settings (fire spread, pvp)
 
 features: 
 - Custom Islands
