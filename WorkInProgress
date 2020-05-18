@@ -47,6 +47,8 @@ features:
 - Custom Terrains 
 - Pets
 - Ore Gens
+- Coin Flip
+- Gamble
 
 MySQL Support:
 - VoteParty
