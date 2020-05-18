@@ -72,7 +72,6 @@ features:
 - AutoINV
 - Island Quests / Challenges
 - Points System / Shop
-- KDR
 
 Quest Ideas:
 - placed blocks
