@@ -32,7 +32,6 @@ features:
 - MoneyPouch
 - Vanish System
 - Invisable System (same as vanish but broadcasts join / leave messages)
-- Broadcast System
 - DropParty
 - Bosses
 - KDR
