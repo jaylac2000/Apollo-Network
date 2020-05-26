@@ -6,7 +6,7 @@ Q: Are any of my plugins for sale or release
 
 A: NOPE
 
-There are features being added constantly (Check WorkInProgress)
+There are features being added constantly (Check WorkInProgress) for features being worked on
 
 info.yml
 - Server info
