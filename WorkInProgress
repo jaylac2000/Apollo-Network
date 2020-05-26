@@ -47,6 +47,7 @@ features:
 - Pets
 - Ore Gens
 - Coin Flip
+- Caps Limit
 - Gamble
 
 MySQL Support:
