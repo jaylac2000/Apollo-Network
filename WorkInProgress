@@ -9,8 +9,6 @@ commands:
 - /wilderness (/wild)
 - /world
 - /repair (/fix)
-- /tutorial (/tut)
-- /settutorial (/settut)
 - /gma
 - /gms
 - /gmc
