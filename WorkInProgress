@@ -49,6 +49,9 @@ features:
 - Coin Flip
 - Caps Limit
 - Gamble
+- Land Claiming 
+- RankUp
+- MineBombs
 
 MySQL Support:
 - VoteParty
