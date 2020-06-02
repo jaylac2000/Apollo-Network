@@ -20,6 +20,7 @@ commands:
 - /nuke
 - /alert
 - /chunk
+- ghost <on/off>
 - More Commands
 
 features: 
