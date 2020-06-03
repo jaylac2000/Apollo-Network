@@ -42,6 +42,8 @@ features:
 - Weather 
 - Functional Villagers (possibly)
 - Messages (join/ leave, MOTD)
+- Tax System
+- AutoINV
 - HealthTag
 - Nick System
 - Warn System
