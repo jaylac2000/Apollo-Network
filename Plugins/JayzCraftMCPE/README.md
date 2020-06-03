@@ -8,5 +8,4 @@ features:
 
 - Condense Wands
 - Broadcast-System
-
-items:
+- RankUP
