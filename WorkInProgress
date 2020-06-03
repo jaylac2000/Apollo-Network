@@ -35,6 +35,7 @@ features:
 - DropParty
 - Bosses
 - KDR
+- Envoys
 - BossBar
 - Sleep/Wakeup messages
 - CombatLogger
