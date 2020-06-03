@@ -6,6 +6,7 @@ commands:
 - /randomteleport (/rtp)
 - /hat
 - /ip
+- /xray
 - /wilderness (/wild)
 - /world
 - /repair (/fix)
@@ -49,7 +50,6 @@ features:
 - Caps Limit
 - Gamble
 - Land Claiming 
-- RankUp
 - MineBombs
 - Ender Dragon
 
