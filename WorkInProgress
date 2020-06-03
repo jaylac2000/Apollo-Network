@@ -21,6 +21,8 @@ commands:
 - /nuke
 - /alert
 - /chunk
+- /chat <mute/unmute>
+- /plugin <plugin> <load/unload/reload>
 - /ghost <on/off>
 - More Commands
 
