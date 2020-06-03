@@ -19,8 +19,3 @@ HowToSell
 Hold the item in your hand and than 
 - /ah sell price
 - Example: /ah sell 5000
-
-STILL BEING WORKED ON / ADDED:
-
-- Max items to sell per rank
-- MySQL support
