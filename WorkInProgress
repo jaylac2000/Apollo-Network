@@ -35,6 +35,8 @@ features:
 - DropParty
 - Bosses
 - KDR
+- BossBar
+- Sleep/Wakeup messages
 - CombatLogger
 - DisguiseSystem (as any mob or player) 
 - Weather 
