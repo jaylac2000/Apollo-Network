@@ -1,13 +1,15 @@
 STILL BEING WORKED ON / ADDED: 
 
+Note: Everything is for all servers, unless specified in brackets showing a server name like this: [Server]
+
 commands: 
 - /timefly (/tf)
 - /killall
-- /randomteleport (/rtp)
+- /randomteleport (/rtp) [Factions/Survival]
 - /hat
 - /ip
-- /xray
-- /wilderness (/wild)
+- /xray 
+- /wilderness (/wild) [Survival/Factions]
 - /world
 - /repair (/fix)
 - /gma
@@ -34,6 +36,7 @@ features:
 - MoneyPouch
 - Vanish System
 - Invisable System (same as vanish but broadcasts join / leave messages)
+- Super Vanish
 - DropParty
 - Bosses
 - KDR
@@ -46,7 +49,7 @@ features:
 - Weather 
 - Functional Villagers (possibly)
 - Messages (join/ leave, MOTD)
-- Tax System
+- Tax System [Survival]
 - AutoINV
 - HealthTag
 - Nick System
@@ -57,8 +60,8 @@ features:
 - Coin Flip
 - Caps Limit
 - Gamble
-- Land Claiming 
-- MineBombs
+- Land Claiming [Survival]
+- MineBombs [Prisons]
 - Ender Dragon
 
 MySQL Support:
