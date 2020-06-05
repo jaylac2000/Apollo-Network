@@ -41,6 +41,7 @@ features:
 - BossBar
 - Sleep/Wakeup messages
 - CombatLogger
+- Admin Games 
 - DisguiseSystem (as any mob or player) 
 - Weather 
 - Functional Villagers (possibly)
