@@ -15,6 +15,7 @@ commands:
 - /world
 - /repair (/fix)
 - /gma
+- /setlore
 - /gms
 - /gmc
 - /gmsp 
