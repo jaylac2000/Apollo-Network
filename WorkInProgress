@@ -7,6 +7,8 @@ Anything in (These) are command alias
 commands: 
 - /timefly (/tf)
 - /killall
+- /seedevice
+- /giveitem
 - /randomteleport (/rtp) [Factions/Survival]
 - /hat
 - /ip
