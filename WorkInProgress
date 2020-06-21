@@ -8,40 +8,23 @@ commands:
 - /timefly (/tf)
 - /killall
 - /seedevice
-- /giveitem
 - /randomteleport (/rtp) [Factions/Survival]
 - /hat
-- /ip
 - /xray 
 - /wilderness (/wild) [Survival/Factions]
 - /world
-- /repair (/fix)
-- /gma
-- /setlore
-- /gms
-- /gmc
-- /gmsp 
 - /extinguish (/ext)
 - /compass
-- /near
 - /hunger <on/off>
 - /nuke
-- /alert
-- /chunk
 - /chat <mute/unmute>
-- /plugin <plugin> <load/unload/reload>
-- /ghost <on/off>
 - More Commands
 
 features: 
 - JailSystem
-- Name Space Remover
 - StaffChat
 - AutoClearLagg
 - MoneyPouch
-- Vanish System
-- Invisable System (same as vanish but broadcasts join / leave messages)
-- Super Vanish
 - DropParty
 - Bosses
 - KDR
@@ -53,12 +36,9 @@ features:
 - DisguiseSystem (as any mob or player) 
 - Weather 
 - Functional Villagers (possibly)
-- Messages (join/ leave, MOTD)
 - Tax System [Survival]
 - AutoINV
 - HealthTag
-- Nick System
-- Warn System
 - Custom Terrains 
 - Pets
 - Ore Gens
@@ -71,9 +51,6 @@ features:
 MySQL Support:
 - VoteParty
 - KDR
-- MuteSystem
-- BanSystem
-- WarnSystem
 
 items: 
 
