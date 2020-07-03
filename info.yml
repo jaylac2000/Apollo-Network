@@ -1,21 +1,23 @@
-name: ApolloNetwork
+name: ApolloMCPE
 
 Developers: 
 - KielKing 
 - jaylac2000
 - diamondkorben
 - AdminConfirmed
+- adeynes
 
 CodeCredits:
 - Shelly7w7
 - TwistedAsylumMC (Twisted)
 - CortexPE
 - DaRealPandaz
+- Heisenburger69
 
 serverip: play.apollomcpe.xyz
 serverport: 19132
 
-buycraft: http://apollomcpe.buycraft.net/
+shop: http://shop.apollomcpe.xyz
 vote: https://minecraftpocket-servers.com/server/87426/
 discord: https://discord.gg/4MBsfTA
 
@@ -23,3 +25,5 @@ gamemodes:
 - Creative
 - Skyblock
 - Factions
+- Survival (SOON)
+- Prisons (SOON)
