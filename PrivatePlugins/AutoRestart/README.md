@@ -6,4 +6,4 @@ It adds the public command /timer (/t) so you can see how long until the server 
 
 It also adds the command /restart (/r) which you can use from in-game to restart the server. 
 
-^ noone has access to that command
+^ no-one has access to that command
