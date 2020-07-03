@@ -1,6 +1,6 @@
 # AutoRestart
 
-This plugin Auto Restarts the server at the given time, also auto reconnects you to the hub.
+This plugin Auto Restarts the server at the given time, also auto reconnects you to the hub (lobby).
 
 It adds the public command /timer (/t) so you can see how long until the server restarts
 
