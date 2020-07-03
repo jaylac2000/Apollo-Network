@@ -20,7 +20,8 @@ commands:
 - /chat <mute/unmute>
 - More Commands
 
-features: 
+features:
+- RankUP
 - JailSystem
 - StaffChat
 - AutoClearLagg
