@@ -2,15 +2,15 @@ STILL BEING WORKED ON / ADDED:
 
 Note: Everything is for all servers, unless specified in brackets showing a server name like this: [Server]
 
-Anything in (These) are command alias 
+Anything in (These) are command alias
 
-commands: 
+commands:
 - /timefly (/tf)
 - /killall
 - /seedevice
 - /randomteleport (/rtp) [Factions/Survival]
 - /hat
-- /xray 
+- /xray
 - /wilderness (/wild) [Survival/Factions]
 - /world
 - /extinguish (/ext)
@@ -27,31 +27,28 @@ features:
 - AutoClearLagg
 - MoneyPouch
 - DropParty
-- Bosses
-- KDR
+- Bosses/Boss Spawners
 - Envoys
-- CombatLogger
-- Admin Games 
-- DisguiseSystem (as any mob or player) 
-- Weather 
+- Admin Games
+- Weather [Survival]
 - Functional Villagers (possibly)
 - Tax System [Survival]
 - AutoINV
 - HealthTag
-- Custom Terrains 
-- Pets
+- Custom Terrains
+- Pets (one day)
 - Ore Gens
 - Coin Flip
 - Caps Limit
 - Gamble
+- X-Ray Notifier [Survival/Factions]
 - Land Claiming [Survival]
 - Ender Dragon
 
 MySQL Support:
 - VoteParty
-- KDR
 
-items: 
+items:
 
 - Lever
 - Buttons
@@ -62,3 +59,4 @@ items:
 - Slime Block
 - Armour Stand
 - Sponge
+- 1.16 blocks (maybe)
