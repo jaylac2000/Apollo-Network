@@ -1,6 +1,6 @@
 name: ApolloMCPE
 
-Developers: 
+Developers:
 - KielKing
 - jaylac2000
 - diamondkorben
@@ -10,16 +10,16 @@ Developers:
 
 Ex-Developers:
 
-- All of my devs are still devs
+- DaRealPandaz
 
 CodeCredits:
 - Shelly7w7
 - TwistedAsylumMC (Twisted)
 - CortexPE
-- DaRealPandaz
 - BlockHorizons
 - Dapro718
 - Heisenburger69
+- ThunderDoesPlugins (Thunder33345)
 
 serverip: play.apollomcpe.xyz
 serverport: 19132
@@ -28,7 +28,7 @@ shop: http://shop.apollomcpe.xyz
 vote: https://minecraftpocket-servers.com/server/87426/
 discord: https://discord.gg/4MBsfTA
 
-gamemodes: 
+gamemodes:
 - Creative
 - Skyblock
 - Factions
