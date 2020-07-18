@@ -1,5 +1,7 @@
 # ApolloMCPE
 
+One of the 2 of my server wide main cores. The other second one is "JayzCraftMCPE"
+
 features:
 
 - Vote Party

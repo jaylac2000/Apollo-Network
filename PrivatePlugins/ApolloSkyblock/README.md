@@ -50,3 +50,9 @@ Other Commands:
 - /tutorial
 
 ^ Teleports you to the Skyblock Tutorial, which has A LOT of useful information
+
+# -------------------------
+
+Other Stuff:
+
+- Has some built in forms
