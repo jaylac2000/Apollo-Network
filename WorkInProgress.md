@@ -1,6 +1,8 @@
-STILL BEING WORKED ON / ADDED: 
+STILL BEING WORKED ON / ADDED:
 
 Note: Everything is for all servers, unless specified in brackets showing a server name like this: [Server]
+
+If no [Server] is specified it is most likely for all servers
 
 Anything in (These) are command alias
 
@@ -8,25 +10,32 @@ commands:
 - /timefly (/tf)
 - /killall
 - /seedevice
-- /randomteleport (/rtp) [Factions/Survival]
 - /hat
 - /xray
-- /wilderness (/wild) [Survival/Factions]
 - /world
+- /clearchat
 - /extinguish (/ext)
 - /compass
 - /hunger <on/off>
 - /nuke
+- /fix hand/all
 - /chat <mute/unmute>
 - More Commands
 
 features:
-- RankUP
 - JailSystem
+- Vanish System
+- Super Vanish
+- Invisible System
 - StaffChat
+- Chest Shop
+- WHOIS
+- AntiSpam
+- AntiSwear
 - AutoClearLagg
 - MoneyPouch
 - DropParty
+- Custom Ores
 - Bosses/Boss Spawners
 - Envoys
 - Admin Games
@@ -35,21 +44,24 @@ features:
 - Tax System [Survival]
 - AutoINV
 - HealthTag
-- Custom Terrains
+- Custom Terrains [Survival/Factions]
 - Pets (one day)
 - Ore Gens
+- Cuatom Minions
 - Coin Flip
 - Caps Limit
 - Gamble
 - X-Ray Notifier [Survival/Factions]
 - Land Claiming [Survival]
 - Ender Dragon
+- Prison Cells
+- Custom Clans
+- Join/Leave/MOTD Messages
 
 MySQL Support:
 - VoteParty
 
 items:
-
 - Lever
 - Buttons
 - Pressure Plates
@@ -59,4 +71,15 @@ items:
 - Slime Block
 - Armour Stand
 - Sponge
-- 1.16 blocks (maybe)
+- Fireworks
+- 1.16 blocks (maybe) - most do not have an item id so it'll be hard
+
+Gamemodes:
+- Survival (SOON - coming back)
+- Prisons (SOON)
+- UHC (SOON - coming back)
+- GTA
+- Skywars
+- Bedwars
+- Eggwars
+- More...

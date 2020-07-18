@@ -1,6 +1,6 @@
 # ApolloMCPE
 
-features: 
+features:
 
 - Vote Party
 - Vote System
@@ -14,7 +14,7 @@ features:
 - Warp System
 - VanillaCoordinates
 - Nether / End portals and worlds
-- Combiner 
+- Combiner
 - Buy Item
 - Head System
 
@@ -52,7 +52,7 @@ commands:
 - /nightvision <on/off>
 - /nametag <on/off>
 
-items: 
+items:
 
 - Beacon
 - Cauldron

@@ -6,9 +6,9 @@ I no longer use this plugin on my servers because it was causing huge amounts of
 
 Spawners Plugin
 
-CURRENT FEATURES: 
+CURRENT FEATURES:
 
-commands: 
+commands:
 - /spawnershop (/sshop)
 - /spawner
 

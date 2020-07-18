@@ -4,7 +4,7 @@ Q & A
 
 Q: Are any of my plugins for sale or release
 
-A: NOPE
+A: NOPE, probably not
 
 There are features being added constantly (Check WorkInProgress) for features being worked on
 
