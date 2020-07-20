@@ -37,6 +37,8 @@ features:
 - DropParty
 - Custom Ores
 - Bosses/Boss Spawners
+- Command Blocker
+- Command Disabler
 - Envoys
 - Admin Games
 - Weather [Survival]
