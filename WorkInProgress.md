@@ -38,6 +38,7 @@ features:
 - Custom Ores
 - Bosses/Boss Spawners
 - Command Blocker
+- Command Blocker for muted players
 - Command Disabler
 - Envoys
 - Admin Games
