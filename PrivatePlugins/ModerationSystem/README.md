@@ -18,5 +18,5 @@ commands:
 - /hide
 - /join
 - /leave
-- modexport
-- modimport
+- /modexport
+- /modimport

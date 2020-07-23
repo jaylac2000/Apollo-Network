@@ -13,7 +13,6 @@ features:
 - Command Blocker
 - Home System
 - TPA Syetem
-- Warp System
 - VanillaCoordinates
 - Nether / End portals and worlds
 - Combiner

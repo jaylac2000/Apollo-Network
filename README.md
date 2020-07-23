@@ -12,6 +12,8 @@ info.yml
 - Server info
 - Developers
 - Code Credits
+- Official Partners
+- Information
 - More
 
 Plugins: 

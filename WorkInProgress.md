@@ -79,7 +79,6 @@ items:
 
 Gamemodes:
 - Survival (SOON - coming back)
-- Prisons (SOON)
 - UHC (SOON - coming back)
 - GTA
 - Skywars

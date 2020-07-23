@@ -1,6 +1,6 @@
 # StaffStatus
 
-Using the command /staff you can see all staff members who are eithe online or offline
+Using the command /staff you can see all staff members who are either online or offline
 
 -------------------------------------------------
 
