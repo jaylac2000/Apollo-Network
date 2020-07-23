@@ -84,4 +84,5 @@ Gamemodes:
 - Skywars
 - Bedwars
 - Eggwars
+- Java Servers
 - More...
