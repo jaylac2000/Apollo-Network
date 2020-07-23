@@ -15,3 +15,8 @@ commands:
 - /ip
 - /alert
 - /rawtell
+- /hide
+- /join
+- /leave
+- modexport
+- modimport
