@@ -51,6 +51,7 @@ features:
 - Pets (one day)
 - Ore Gens
 - Cuatom Minions
+- McMMO
 - Coin Flip
 - Caps Limit
 - Gamble
@@ -63,6 +64,7 @@ features:
 
 MySQL Support:
 - VoteParty
+- McMMO
 
 items:
 - Lever
