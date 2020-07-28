@@ -7,9 +7,11 @@ If no [Server] is specified it is most likely for all servers
 Anything in (These) are command alias
 
 Gamemodes:
-- Survival
-- Skyblock
-- UHC
+- Survival Server
+- Skyblock Server
+- Factions Server
+- Prisons Server
+- UHC Server
 - GTA Server
 - Skywars Server
 - Bedwars Server
