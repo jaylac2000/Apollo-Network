@@ -17,6 +17,6 @@ info.yml
 - More
 
 Plugins: 
-- Check the plugins section (again no code is released) 
+- Check the "PrivatePlugins" section (again no code is released)
 
 ** This is only posted here so people / my server members can see what the server has and what is upcoming to the server

@@ -1,5 +1,5 @@
 # ApolloMCPESurvival
 
-My UHC Core
+My Survival Core
 
 - No progress done yet...

@@ -24,12 +24,10 @@ commands:
 
 features:
 - JailSystem
-- Vanish System
-- Super Vanish
-- Invisible System
+- Vanish System (makes it so no one can see your player, hand items and armour)
+- Super Vanish (same as vanish but removes you from the list and broadcasts join/leave message)
 - StaffChat
 - Chest Shop
-- WHOIS
 - AntiSpam
 - AntiSwear
 - AutoClearLagg
@@ -41,7 +39,7 @@ features:
 - Command Blocker for muted players
 - Command Disabler
 - Envoys
-- Admin Games
+- Admin Games System
 - Weather [Survival]
 - Functional Villagers (possibly)
 - Tax System [Survival]
@@ -82,9 +80,9 @@ items:
 Gamemodes:
 - Survival (SOON - coming back)
 - UHC (SOON - coming back)
-- GTA
-- Skywars
-- Bedwars
-- Eggwars
+- GTA Server
+- Skywars Server
+- Bedwars Server
+- Eggwars Server
 - Java Servers
-- More...
+- More Servers...
