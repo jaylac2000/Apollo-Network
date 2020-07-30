@@ -1,6 +1,6 @@
 STILL BEING WORKED ON / ADDED:
 
-Note: Everything is for all servers, unless specified in brackets showing a server name like this: [Server]
+Note: Everything is for all servers, unless specified in brackets showing a server name like this: [Server or plugin]
 
 If no [Server] is specified it is most likely for all servers
 
@@ -17,6 +17,7 @@ commands:
 - /extinguish (/ext)
 - /compass
 - /hunger <on/off>
+- /seenick [ModerationSystem]
 - /nuke
 - /fix hand/all
 - /chat <mute/unmute>
@@ -35,9 +36,10 @@ features:
 - DropParty
 - Custom Ores
 - Bosses/Boss Spawners
-- Command Blocker
-- Command Blocker for muted players
-- Command Disabler
+- Command Blocker [ModerationSystem]
+- Command Blocker for muted players [ModerationSystem]
+- Command Disabler [ModerationSystem]
+- Command Hider [ModerationSystem]
 - Envoys
 - Admin Games System
 - Weather [Survival]
