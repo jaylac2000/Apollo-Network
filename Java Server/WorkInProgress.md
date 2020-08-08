@@ -7,7 +7,6 @@ If no [Server] is specified it is most likely for all servers
 Anything in (These) are command alias
 
 Gamemodes:
-- Survival Server
 - Skyblock Server
 - Factions Server
 - Prisons Server

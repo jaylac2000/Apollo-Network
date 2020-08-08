@@ -19,15 +19,18 @@ commands:
 - /hunger <on/off>
 - /seenick [ModerationSystem]
 - /nuke
+- /condense
 - /fix hand/all
 - /chat <mute/unmute>
 - More Commands
 
 features:
+- Scoreboard for mined/placed blocks
 - JailSystem
 - Vanish System (makes it so no one can see your player, hand items and armour)
 - Super Vanish (same as vanish but removes you from the list and broadcasts join/leave message)
 - StaffChat
+- Boosters
 - Chest Shop
 - AntiSpam
 - AntiSwear

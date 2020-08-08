@@ -1,21 +1,20 @@
-name: ApolloJava
+name: ScepterJava
 
 Developers:
 - jaylac2000
 
 Ex-Developers:
-
 - None
 
 CodeCredits:
 - None
 
-serverip: not released
+serverip: play.scepternetwork.com
 serverport: 25565
+connect: 1.8-1.15.2
 
 shop: not released
 vote: not released
-discord: not released
 
 gamemodes:
-- None
+- Survival

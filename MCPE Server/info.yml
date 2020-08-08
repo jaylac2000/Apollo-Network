@@ -1,4 +1,4 @@
-name: ApolloMCPE
+name: ScepterMCPE
 
 Developers:
 - KielKing
@@ -8,7 +8,6 @@ Developers:
 - TPEimperialPE
 
 Ex-Developers:
-
 - DaRealPandaz
 - AdminConfirmed
 
@@ -21,7 +20,7 @@ CodeCredits:
 - Heisenburger69
 - ThunderDoesPlugins (Thunder33345)
 
-serverip: play.apollomcpe.xyz
+serverip: play.scepternetwork.com
 serverport: 19132
 
 shop: http://shop.apollomcpe.xyz
