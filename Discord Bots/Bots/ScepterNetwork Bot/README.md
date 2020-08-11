@@ -2,6 +2,16 @@
 
 Bot Type: Main
 
-Language: Python
+Language: JavaScript
 
 Prefix: -
+
+Commands:
+
+General Commands:
+
+-help : open the bots help menu
+
+Ticket Commands:
+
+Staff Commands:

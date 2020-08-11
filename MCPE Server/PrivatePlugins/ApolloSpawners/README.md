@@ -16,3 +16,7 @@ features:
 
 - Adds spawners
 - Adds spawner shop
+
+--------------------------------
+
+Even tho, my server changed from Apollo to Scepter, I just left this plugin as "ApolloSpawners" since this plugin is no longer in use anymore anyways
