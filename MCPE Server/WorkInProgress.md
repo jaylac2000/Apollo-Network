@@ -17,7 +17,6 @@ commands:
 - /extinguish (/ext)
 - /compass
 - /hunger <on/off>
-- /seenick [ModerationSystem]
 - /nuke
 - /condense
 - /fix hand/all

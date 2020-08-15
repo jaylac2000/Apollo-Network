@@ -22,3 +22,4 @@ commands:
 - /modexport
 - /modimport
 - /whois
+- /seenick

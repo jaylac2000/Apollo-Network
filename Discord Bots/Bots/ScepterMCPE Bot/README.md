@@ -4,4 +4,4 @@ Bot Type: MCPE
 
 Language: Python
 
-Prefix: /
+Prefix: &

@@ -57,6 +57,3 @@ items:
 - Cauldron
 - Hopper
 - Shulker Box
-- Enchant Table
-- Anvil
-- Brewing Stand
