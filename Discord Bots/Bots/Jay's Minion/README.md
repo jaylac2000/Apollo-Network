@@ -6,11 +6,13 @@ Language: Python
 
 Prefix: .
 
-Commands:
+----------
 
-.help - this menu
-.youtube - my YouTube Channel
-.github - my github
-.ign - My In Game Names
-.twitter - My Twitter
-.snapchat - my Snapchat
+General Commands:
+
+- .help > help menu
+- .youtube > My YouTube Channel
+- .github > My github
+- .ign > My In Game Names
+- .twitter > My Twitter
+- .snapchat > My Snapchat

@@ -8,6 +8,8 @@ Prefix: !
 
 You can buy this bot for your self, 100% customizable: https://billing.apollohosting.xyz/cart.php?gid=7
 
+----------
+
 SN Music commands:
 
 - !about - shows info about the bot

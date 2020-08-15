@@ -14,7 +14,7 @@ serverport: 25565
 connect: 1.8-1.15.2
 
 shop: not released
-vote: not released
+vote: https://minecraft-mp.com/server-s265622
 
 gamemodes:
 - Survival
