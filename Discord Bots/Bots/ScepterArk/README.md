@@ -10,10 +10,10 @@ Prefix: %
 
 General Commands:
 
-- %help > help menu
+- %help > Ark help menu
 - %ip > Ark IP
 - %shop > Ark Shop
-- %suggest > make a Ark suggestion
+- %language > what language is this bot written in
 
 Ticket Commands:
 

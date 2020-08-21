@@ -7,6 +7,8 @@ Language: Java
 Prefix: !
 
 You can buy this bot for your self, 100% customizable: https://billing.apollohosting.xyz/cart.php?gid=7
+Bot Source Code: https://github.com/jagrosh/MusicBot
+# ^ basically you are only being charged hosting of the bot
 
 ----------
 

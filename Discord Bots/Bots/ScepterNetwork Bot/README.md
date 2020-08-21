@@ -20,6 +20,7 @@ General Commands:
 - -shop > how to get a specific shop link
 - -suggest > how to make a specific suggestion
 - -suggestion > make a general suggestion
+- -language > what language is this bot written in
 
 Ticket Commands:
 

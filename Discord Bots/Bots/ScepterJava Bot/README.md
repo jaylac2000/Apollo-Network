@@ -10,10 +10,11 @@ Prefix: *
 
 General Commands:
 
-- *help > help menu
+- *help > MC Java help menu
 - *ip > MC Java IP
 - *shop > MC Java Shop
 - *suggest > make a MC Java suggestion
+- *language > what language is this bot written in
 
 Ticket Commands:
 

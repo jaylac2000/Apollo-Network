@@ -10,10 +10,11 @@ Prefix: &
 
 General Commands:
 
-- &help > help menu
+- &help > MCPE help menu
 - &ip > MCPE IP
 - &shop > MCPE Shop
 - &suggest > make a MCPE suggestion
+- &language > what language is this bot written in
 
 Ticket Commands:
 

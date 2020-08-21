@@ -2,6 +2,7 @@ name: ScepterJava
 
 Developers:
 - jaylac2000
+- HyperFlare
 
 Ex-Developers:
 - None
@@ -11,9 +12,9 @@ CodeCredits:
 
 serverip: play.scepternetwork.com
 serverport: 25565
-connect: 1.8-1.15.2
+connect: 1.8-Latest
 
-shop: not released
+shop: https://store.scepternetwork.com
 vote: https://minecraft-mp.com/server-s265622
 
 gamemodes:
