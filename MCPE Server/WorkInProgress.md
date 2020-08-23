@@ -8,8 +8,6 @@ Anything in (These) are command alias
 
 commands:
 - /timefly (/tf)
-- /killall
-- /seedevice
 - /hat
 - /xray
 - /world
@@ -18,8 +16,6 @@ commands:
 - /compass
 - /hunger <on/off>
 - /nuke
-- /condense
-- /fix hand/all
 - /chat <mute/unmute>
 - More Commands
 

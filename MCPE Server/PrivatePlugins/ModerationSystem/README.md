@@ -9,6 +9,7 @@ features:
 - Mute System
 - Warn System
 - Nick System
+- Export/Import for MySQL transfers
 
 commands:
 
@@ -23,3 +24,4 @@ commands:
 - /modimport
 - /whois
 - /seenick
+- /killall
