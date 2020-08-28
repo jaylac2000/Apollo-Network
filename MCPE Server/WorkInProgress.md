@@ -48,7 +48,7 @@ features:
 - Custom Terrains [Survival/Factions]
 - Pets (one day)
 - Ore Gens
-- Cuatom Minions
+- Custom Minions
 - McMMO
 - Coin Flip
 - Caps Limit
