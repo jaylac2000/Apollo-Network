@@ -6,5 +6,5 @@ This plugin is also highly modified privately for my plugins.
 
 It is modified for the following plugins
 
-- ApolloSkyblock (for island levels + other things)
-- JayzCraftMCPE (for RankUp)
+- ScepterSkyblock (for island levels + other things)
+- ScepterMCPECore (for RankUp)

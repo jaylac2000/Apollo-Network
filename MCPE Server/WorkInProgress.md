@@ -34,27 +34,23 @@ features:
 - DropParty
 - Custom Ores
 - Bosses/Boss Spawners
-- Command Blocker [ModerationSystem]
+- Command Blocker
 - Command Blocker for muted players [ModerationSystem]
-- Command Disabler [ModerationSystem]
-- Command Hider [ModerationSystem]
+- Command Disabler
+- Command Hider
 - Envoys
 - Admin Games System
-- Weather [Survival]
+- Weather
 - Functional Villagers (possibly)
-- Tax System [Survival]
 - AutoINV
 - HealthTag
-- Custom Terrains [Survival/Factions]
+- Custom Terrains [Factions]
 - Pets (one day)
 - Ore Gens
 - Custom Minions
 - McMMO
-- Coin Flip
 - Caps Limit
-- Gamble
-- X-Ray Notifier [Survival/Factions]
-- Land Claiming [Survival]
+- X-Ray Notifier [Factions]
 - Ender Dragon
 - Prison Cells
 - Custom Clans

@@ -4,8 +4,19 @@ They also include other information, such as a README with some useful informati
 
 discord: https://discord.scepternetwork.com/
 website: https://scepternetwork.com/
+rules: https://scepternetwork.com/
 
 OfficialPartners:
 
 - Apollo Hosting LTD
-> https://apollohosting.xyz/
+> https://billing.apollohosting.xyz/
+>>Discord: https://discord.gg/2UtE3AJ
+
+CommonMessages:
+
+Join: §e{PLAYER} §l§d[§2+§d]
+Leave: §e{PLAYER} §l§d[§4-§d]
+Prefix: §l§2..§e[§dPrefix§e]§2..§r§f
+
+# ^ do not copy right my custom messages
+# i came up with them myself

@@ -12,6 +12,7 @@ info.yml
 - Discord
 - Official Partners
 - Information
+- Common Server Network Messages
 - More
 
 ** This is only posted here so people / my server members can see what the server has and what is upcoming to the server

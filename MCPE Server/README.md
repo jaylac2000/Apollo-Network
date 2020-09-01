@@ -4,9 +4,8 @@ info.yml
 - Server info
 - Developers
 - Code Credits
-- Official Partners
 - Information
 - More
 
-Plugins: 
+Plugins:
 - Check the "PrivatePlugins" section (no code is released)
