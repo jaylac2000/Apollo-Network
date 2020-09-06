@@ -3,8 +3,10 @@
 features:
 
 - SellWands
+- Vanish
+- Super Vanish
+- Repair(Fix)
 
 commands:
 
-- /repair hand-all
 - /condense

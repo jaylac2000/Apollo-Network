@@ -2,16 +2,13 @@
 
 features:
 
-- Vote Party
+- Vote Party (Cross Server)
 - Vote System
 - Chunk Hoppers
 - Sell System / Auto Sell
 - Invsee System
-- Vanilla Enchanting
-- Command Blocker
 - Home System
 - TPA Syetem
-- VanillaCoordinates
 - Nether / End portals and worlds
 - Combiner
 - Buy Item

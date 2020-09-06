@@ -22,11 +22,10 @@ commands:
 features:
 - Scoreboard for mined/placed blocks
 - JailSystem
-- Vanish System (makes it so no one can see your player, hand items and armour)
-- Super Vanish (same as vanish but removes you from the list and broadcasts join/leave message)
 - StaffChat
 - Boosters
 - Chest Shop
+- Vanilla coords
 - AntiSpam
 - AntiSwear
 - AutoClearLagg
@@ -57,7 +56,6 @@ features:
 - Join/Leave/MOTD Messages
 
 MySQL Support:
-- VoteParty
 - McMMO
 
 items:
@@ -74,7 +72,7 @@ items:
 - 1.16 blocks (maybe) - most do not have an item id so it'll be hard
 
 Gamemodes:
-- Survival (SOON - coming back)
+- Survival (Might NOT be added, but - it MIGHT be added eventually.)
 - UHC (SOON - coming back)
 - GTA Server
 - Skywars Server
