@@ -11,6 +11,7 @@ commands:
 - /hat
 - /xray
 - /world
+- /trash
 - /clearchat
 - /extinguish (/ext)
 - /compass
@@ -24,6 +25,7 @@ features:
 - JailSystem
 - StaffChat
 - Boosters
+- Vouchers
 - Chest Shop
 - Vanilla coords
 - AntiSpam
@@ -73,10 +75,9 @@ items:
 
 Gamemodes:
 - Survival (Might NOT be added, but - it MIGHT be added eventually.)
-- UHC (SOON - coming back)
+- UHC
 - GTA Server
 - Skywars Server
 - Bedwars Server
 - Eggwars Server
-- Java Servers
 - More Servers...

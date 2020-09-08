@@ -1,4 +1,6 @@
-# My Servers
+# Scepter Network
+
+[![Discord](https://img.shields.io/discord/574515541407039511?color=informational&label=discord)](https://discord.gg/9rMhGaF)
 
 Q & A
 

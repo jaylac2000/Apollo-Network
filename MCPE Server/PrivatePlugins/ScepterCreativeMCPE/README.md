@@ -2,6 +2,6 @@
 
 commands:
 
+- /hub (/lobby)
 - /plots
 - /plots2
-- /hub
