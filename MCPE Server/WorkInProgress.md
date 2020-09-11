@@ -10,6 +10,7 @@ commands:
 - /timefly (/tf)
 - /hat
 - /xray
+- /crates
 - /world
 - /trash
 - /clearchat
@@ -23,22 +24,22 @@ commands:
 features:
 - Scoreboard for mined/placed blocks
 - JailSystem
-- StaffChat
-- Boosters
+- StaffChat [ScepterCore]
+- Boosters (I do not know what this is, and need someone to explain to me rather than suggest a feature with no details)
 - Vouchers
 - Chest Shop
 - Vanilla coords
 - AntiSpam
 - AntiSwear
 - AutoClearLagg
-- MoneyPouch
+- MoneyPouch [ScepterCore]
 - DropParty
 - Custom Ores
 - Bosses/Boss Spawners
 - Command Blocker
-- Command Blocker for muted players [ModerationSystem]
 - Command Disabler
 - Command Hider
+- Command Blocker for muted players [ModerationSystem]
 - Envoys
 - Admin Games System
 - Weather
@@ -47,15 +48,16 @@ features:
 - HealthTag
 - Custom Terrains [Factions]
 - Pets (one day)
-- Ore Gens
+- Ore Gens [Factions + Prisons]
 - Custom Minions
 - McMMO
 - Caps Limit
 - X-Ray Notifier [Factions]
 - Ender Dragon
-- Prison Cells
+- Prison Cells [Prisons]
 - Custom Clans
-- Join/Leave/MOTD Messages
+- Discord Webhook
+- Join/Leave/MOTD Messages 
 
 MySQL Support:
 - McMMO
@@ -74,8 +76,9 @@ items:
 - 1.16 blocks (maybe) - most do not have an item id so it'll be hard
 
 Gamemodes:
-- Survival (Might NOT be added, but - it MIGHT be added eventually.)
-- UHC
+- Survival Server
+- UHC Server
+- Anarchy Server
 - GTA Server
 - Skywars Server
 - Bedwars Server

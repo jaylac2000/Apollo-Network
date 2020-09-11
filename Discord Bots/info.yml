@@ -1,8 +1,11 @@
 name: Discord Bots
 
 Developers:
-- jaylac2000
-- diamondkorben
+- [jaylac2000](https://github.com/jaylac2000)
+- [RMB-1](https://github.com/RMB-1)
+
+Helped:
+- [diamondkorben](https://github.com/diamondkorben)
 
 Ex-Developers:
 - none
@@ -10,7 +13,17 @@ Ex-Developers:
 CodeCredits:
 - none
 
+CodeHelp:
+
+- [Xenophilicy](https://github.com/Xenophilicy)
+
 BotLanguages:
 - Python
 - JavaScript
 - Java
+
+Bots:
+
+- Jay's Minion (My Helper/Minion/Slave Bot)
+- SN Music (Music Bot)
+- SN Levels (Level Bot)

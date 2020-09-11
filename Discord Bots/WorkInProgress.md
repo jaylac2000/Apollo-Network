@@ -1,5 +1,5 @@
 STILL BEING WORKED ON / ADDED:
 
-- Scepter Network (Main Bot)
-- ScepterMCPE (MCPE Bot)
-- ScepterJava (Java Bot)
+- Scepter Network (Main Network Bot)
+- SN MCPE (MCPE Bot)
+- SN Java (Java Bot)

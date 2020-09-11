@@ -2,8 +2,6 @@
 
 features:
 
-- Vote Party (Cross Server)
-- Vote System
 - Chunk Hoppers
 - Sell System / Auto Sell
 - Invsee System
@@ -27,8 +25,6 @@ commands:
 - /worldtp (/wtp)
 - /back
 - /milk
-- /vote
-- /votes
 - /withdraw
 - /freemoney
 - /spawn

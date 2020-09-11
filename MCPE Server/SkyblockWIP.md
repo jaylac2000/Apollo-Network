@@ -4,6 +4,7 @@ Skyblock ONLY Work In Progress Stuff
 
 The details for most of these are layed out already
 
+- Island Chat alias
 - Custom Islands
 - Island Warps
 - Quests/Challenges

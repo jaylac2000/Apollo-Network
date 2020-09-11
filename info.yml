@@ -5,6 +5,7 @@ They also include other information, such as a README with some useful informati
 discord: https://discord.scepternetwork.com/
 website: https://scepternetwork.com/
 rules: https://scepternetwork.com/
+faq: https://scepternetwork.com/faq
 
 OfficialPartners:
 
@@ -12,7 +13,7 @@ OfficialPartners:
 > https://billing.apollohosting.xyz/
 >>Discord: https://discord.gg/2UtE3AJ
 
-CommonMessages:
+Common Messages:
 
 Join: §e{PLAYER} §l§d[§2+§d]
 Leave: §e{PLAYER} §l§d[§4-§d]
