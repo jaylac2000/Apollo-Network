@@ -10,4 +10,4 @@ features:
 - Random PVP enable in mines
 - Protect certain worlds from PVP such as spawn
 
-A few other features which makes it work with MineReset (https://poggit.pmmp.io/p/minereset)
+A few other features which makes it work with [MineReset](https://poggit.pmmp.io/p/minereset)
