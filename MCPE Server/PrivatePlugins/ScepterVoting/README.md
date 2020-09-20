@@ -11,6 +11,7 @@ features:
 commands:
 
 - /vote (claim your vote rewards)
+- /vote top (see the top 10 voters)
 - /votes (see how much votes until vote party)
 
 vote:

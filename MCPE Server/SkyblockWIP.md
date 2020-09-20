@@ -7,10 +7,8 @@ The details for most of these are layed out already
 - Island Chat alias
 - Custom Islands
 - Island Warps
-- Quests/Challenges
-- Better Chest Shops
-- Island Shop
-- Floating Text (for top islands)
+- Floating Text (for top islands - level/money)
 - Island Friends/OPs
+- Island Permissions
 - More Commands
 - More

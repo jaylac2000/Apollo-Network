@@ -30,34 +30,35 @@ features:
 - Chest Shop
 - Vanilla coords
 - AntiSpam
+- Caps Limit
 - AntiSwear
 - AutoClearLagg
 - MoneyPouch [ScepterCore]
 - DropParty
-- Custom Ores
-- Bosses/Boss Spawners
 - Command Blocker
 - Command Disabler
 - Command Hider
 - Command Blocker for muted players [ModerationSystem]
+- YouTuber Kit Claims
 - Envoys
-- Admin Games System
 - Weather
 - Functional Villagers (possibly)
 - AutoINV
 - HealthTag
-- Custom Terrains [Factions]
-- Pets (one day)
 - Ore Gens [Factions + Prisons]
-- Custom Minions
+- Custom Minions (Miner,Farmer)
+- Relics
 - McMMO
-- Caps Limit
 - X-Ray Notifier [Factions]
 - Ender Dragon
 - Prison Cells [Prisons]
-- Custom Clans
+- Custom Gangs/Clans/Guilds
 - Discord Webhook
 - Join/Leave/MOTD Messages 
+- Anti Cheat
+- Staff Chat
+- Admin Chat
+- Premium Chat
 
 MySQL Support:
 - McMMO
