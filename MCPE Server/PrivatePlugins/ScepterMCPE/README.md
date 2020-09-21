@@ -46,7 +46,6 @@ commands:
 
 items:
 
-- Beacon
 - Cauldron
 - Hopper
 - Shulker Box

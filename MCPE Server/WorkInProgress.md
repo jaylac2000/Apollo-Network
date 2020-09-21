@@ -24,7 +24,6 @@ commands:
 features:
 - Scoreboard for mined/placed blocks
 - JailSystem
-- StaffChat [ScepterCore]
 - Boosters (I do not know what this is, and need someone to explain to me rather than suggest a feature with no details)
 - Vouchers
 - Chest Shop
@@ -33,13 +32,12 @@ features:
 - Caps Limit
 - AntiSwear
 - AutoClearLagg
-- MoneyPouch [ScepterCore]
 - DropParty
 - Command Blocker
 - Command Disabler
 - Command Hider
 - Command Blocker for muted players [ModerationSystem]
-- YouTuber Kit Claims
+- YouTuber Kit Claims (/ytclaim)
 - Envoys
 - Weather
 - Functional Villagers (possibly)
@@ -47,7 +45,6 @@ features:
 - HealthTag
 - Ore Gens [Factions + Prisons]
 - Custom Minions (Miner,Farmer)
-- Relics
 - McMMO
 - X-Ray Notifier [Factions]
 - Ender Dragon
@@ -56,9 +53,6 @@ features:
 - Discord Webhook
 - Join/Leave/MOTD Messages 
 - Anti Cheat
-- Staff Chat
-- Admin Chat
-- Premium Chat
 
 MySQL Support:
 - McMMO

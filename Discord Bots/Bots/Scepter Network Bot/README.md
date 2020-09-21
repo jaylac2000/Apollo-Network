@@ -24,6 +24,7 @@ Ticket Commands:
 - remove
 - close
 - adminonly
+- rename
 
 Staff Commands:
 
