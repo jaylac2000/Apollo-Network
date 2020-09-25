@@ -10,7 +10,6 @@ commands:
 - /timefly (/tf)
 - /hat
 - /xray
-- /crates
 - /world
 - /trash
 - /clearchat

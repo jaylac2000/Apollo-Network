@@ -16,6 +16,10 @@ commands:
 
 - /fly
 - /hub (/lobby)
+- /skyblock
+- /factions
+- /creative
+- /prisons
 - /buyitem (/bi)
 - /combiner
 - /feed
@@ -29,6 +33,8 @@ commands:
 - /freemoney
 - /spawn
 - /setserverspawn
+- /crates
+- /setcrates
 - /pvp
 - /setpvp
 - /commandspy
