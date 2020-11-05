@@ -4,6 +4,8 @@ Developers:
 - jaylac2000
 - HyperFlare
 - Teddeh
+- DucPro (jay krow)
+- wasteofoxygen
 
 Ex-Developers:
 - None
@@ -14,9 +16,12 @@ CodeCredits:
 serverip: play.scepternetwork.com
 serverport: 25565
 connect: 1.8-Latest
+ServerVersion: 1.16.3
+SuggestedVersion: 1.16+
 
 shop: https://store.scepternetwork.com
 vote: https://minecraft-mp.com/server-s265622
 
 gamemodes:
+- Anarchy
 - Survival (COMING SOON)

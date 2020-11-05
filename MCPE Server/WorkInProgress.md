@@ -70,11 +70,4 @@ items:
 - 1.16 blocks (maybe) - most do not have an item id so it'll be hard
 
 Gamemodes:
-- Survival Server
-- UHC Server
-- Anarchy Server
-- GTA Server
-- Skywars Server
-- Bedwars Server
-- Eggwars Server
-- More Servers...
+- None
