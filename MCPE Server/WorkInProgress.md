@@ -9,15 +9,9 @@ Anything in (These) are command alias
 commands:
 - /timefly (/tf)
 - /hat
-- /xray
 - /world
-- /trash
 - /clearchat
-- /extinguish (/ext)
 - /compass
-- /hunger <on/off>
-- /nuke
-- /chat <mute/unmute>
 - More Commands
 
 features:
@@ -30,7 +24,6 @@ features:
 - AntiSpam
 - Caps Limit
 - AntiSwear
-- AutoClearLagg
 - DropParty
 - Command Blocker
 - Command Disabler
@@ -40,7 +33,6 @@ features:
 - Envoys
 - Weather
 - Functional Villagers (possibly)
-- AutoINV
 - HealthTag
 - Ore Gens [Factions + Prisons]
 - Custom Minions (Miner,Farmer)
@@ -50,7 +42,6 @@ features:
 - Prison Cells [Prisons]
 - Custom Gangs/Clans/Guilds
 - Discord Webhook
-- Join/Leave/MOTD Messages 
 - Anti Cheat
 
 MySQL Support:
